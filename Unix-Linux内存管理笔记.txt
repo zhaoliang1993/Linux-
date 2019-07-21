@@ -1,0 +1,8 @@
+一、内存分配和回收的相关函数
+    STL容器    自动分配和回收
+    C++语言    new、delete
+    C语言      malloc()、free()
+    Unix系统函数   sbrk()、brk()
+    Unix系统函数   mmp()、munmap()
+    ------------应用层---------------
+    Unix系统调用（内核）    kmalloc()、vmalloc()
